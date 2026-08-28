@@ -63,8 +63,8 @@ For a one-time copy that will not receive team updates, select **Code > Download
 1. In Unity Hub, select **Add > Add project from disk**.
 2. Choose the cloned project folder containing the `Assets`, `Packages`, and `ProjectSettings` folders.
 3. Open the project with the required Unity version and wait for the first import to finish.
-4. Open the main game scene from the `Assets` folder if it is not already open.
-5. Select the **Play** button at the top of the Unity editor to test the game. Select it again to stop testing before editing files.
+4. Open the main game scene `Pong` from the `Assets` folder if it is not already open.
+6. Select the **Play** button at the top of the Unity editor to test the game. Select it again to stop testing before editing files.
 
 ### 4. Build the Game
 
