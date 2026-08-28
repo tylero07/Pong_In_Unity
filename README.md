@@ -1,26 +1,81 @@
-Special thanks to Erkberg on youtube for the tutorial Here https://youtu.be/DnBTmYXThOY?si=zjpdK3Lzv7-ze1NP
+# Pong
 
-This pong game is used to fulfill the requirements for assignment 1 for cs3383 at University of Idaho as taught by Dr. Joules Beeston https://www.uidaho.edu/people/jbeeston
+A two-player Pong game created in Unity for Assignment 1 in CS 3383 at the University of Idaho.
 
-This pong game was created using unity game engine on windows using the following release
+## Acknowledgments
 
-Pong can be downloaded from this repo by double clicking the version capatable with you device, Unzipping the contents to the same directory and double clicking the executable.
+- Special thanks to [Erkberg on YouTube](https://youtu.be/DnBTmYXThOY?si=zjpdK3Lzv7-ze1NP) for the tutorial used as a reference.
+- This project was created for CS 3383 at the University of Idaho, taught by [Dr. Joules Beeston](https://www.uidaho.edu/people/jbeeston).
 
-in the event that changes need to be made or your device architechture isnt in the downloadedable zip use the following instructions (refer to downloaded pdf here)
-install unity by choosing your achitecture and platform from here (https://cloud.unity.com/organizations/1375980972046/onboarding/post-download?locale=en&code=kpxZOYsqwjrxIPVMAXhSKA001f&locale=en&session_state=bd754eb0b5bebaf3f4112fd60d82009966e375e7235305aaee874fa66253a76e.3AUSV64gDurEqwBTHuuZ3A018f)
-Note: link may change
-follow the install instructions
-download the proper editor that matches the version listed if available or the newest stable version if not.
-<img width="3456" height="2234" alt="image" src="https://github.com/user-attachments/assets/72ec81ae-56fa-4e94-9703-d8e473500bcd" />
-once the version is downloaded you can download the repository and use the "Build" feature under file->build profiles->add your device/platform with desired settings->select build
-<img width="3456" height="2234" alt="image" src="https://github.com/user-attachments/assets/25da3f46-59fe-4869-b47b-20b9504a150d" />
+## Unity version
 
-How to play the game
-move the paddles for player 1 (left paddle) with w (up) and s (down)
-move the paddles for player 2 (right paddle) with the up and down directional arrows
-prevent the ball from passing by your side
-3 points wins
-*****add screenshots/gif/videos here*********
-Press start to initiate the game
-[esc] key to quick exit the game
-[H] key to pause/see instructions
+This game was developed on Windows with Unity **[add the exact Unity editor version here]**.
+
+Using the same editor version is recommended when opening or rebuilding the project. If that version is unavailable, use the newest stable Unity release and be aware that Unity may upgrade the project.
+
+## Download and launch
+
+1. In this repository, choose the downloadable ZIP file that matches your operating system and device architecture.
+2. Download the ZIP file.
+3. Extract all of its contents into the same folder.
+4. Open the extracted folder and double-click the game executable.
+5. Press **Start** to begin the game.
+
+> Keep the executable and all accompanying files and folders together. The game may not run if files are moved or removed.
+
+## How to play
+
+The goal is to prevent the ball from passing your paddle. The first player to score **3 points** wins.
+
+| Player | Paddle | Move up | Move down |
+| --- | --- | --- | --- |
+| Player 1 | Left | `W` | `S` |
+| Player 2 | Right | `Up Arrow` | `Down Arrow` |
+
+Additional controls:
+
+- `H` - Pause the game and display the instructions
+- `Esc` - Exit the game immediately
+
+## Gameplay preview
+
+<!-- Add gameplay screenshots, a GIF, or a video link here. -->
+
+## Open and rebuild the project
+
+Use these steps if you need to make changes or if a prebuilt download is not available for your operating system or device architecture.
+
+### 1. Install Unity Hub
+
+1. Download [Unity Hub](https://unity.com/download) for your operating system and architecture.
+2. Run the installer and follow the on-screen instructions.
+3. Open Unity Hub after installation is complete.
+
+> Unity's download links and installation screens may change over time.
+
+### 2. Install the Unity editor
+
+1. In Unity Hub, open **Installs**.
+2. Select **Install Editor**.
+3. Install the exact editor version listed in [Unity version](#unity-version), if it is available. Otherwise, install the newest stable release.
+4. During installation, add the build-support module for each platform you intend to target.
+
+![Unity Hub editor installation screen](https://github.com/user-attachments/assets/72ec81ae-56fa-4e94-9703-d8e473500bcd)
+
+### 3. Open the project
+
+1. Download or clone this repository.
+2. If you downloaded a ZIP file, extract it.
+3. In Unity Hub, select **Add** or **Open**, then choose the project's root folder.
+4. Allow Unity to import the project. The first import may take several minutes.
+
+### 4. Create a build
+
+1. In the Unity editor, select **File > Build Profiles**.
+2. Add or select your target platform.
+3. Install any requested platform support through Unity Hub.
+4. Choose the desired build settings.
+5. Select **Build**, choose an empty output folder, and wait for Unity to finish.
+6. Keep every generated file and folder together when distributing or running the game.
+
+![Unity Build Profiles window](https://github.com/user-attachments/assets/25da3f46-59fe-4869-b47b-20b9504a150d)
