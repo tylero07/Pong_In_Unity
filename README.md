@@ -78,4 +78,5 @@ Use these steps if you need to make changes or if a prebuilt download is not ava
 5. Select **Build**, choose an empty output folder, and wait for Unity to finish.
 6. Keep every generated file and folder together when distributing or running the game.
 
-![Unity Build Profiles window](https://github.com/user-attachments/assets/25da3f46-59fe-4869-b47b-20b9504a150d)
+<img width="3162" height="1164" alt="image" src="https://github.com/user-attachments/assets/cf32fd31-d502-4282-9b58-25b91ee09112" />
+
