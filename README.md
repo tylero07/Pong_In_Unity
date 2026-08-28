@@ -7,13 +7,13 @@ A two-player Pong game created in Unity for Assignment 1 in CS 3383 at the Unive
 - Special thanks to [Erkberg on YouTube](https://youtu.be/DnBTmYXThOY?si=zjpdK3Lzv7-ze1NP) for the tutorial used as a reference.
 - This project was created for CS 3383 at the University of Idaho, taught by [Dr. Joules Beeston](https://www.uidaho.edu/people/jbeeston).
 
-## Unity version
+## Unity Version
 
 This game was developed on Windows with Unity **[add the exact Unity editor version here]**.
 
 Using the same editor version is recommended when opening or rebuilding the project. If that version is unavailable, use the newest stable Unity release and be aware that Unity may upgrade the project.
 
-## Download and launch
+## Download And Launch
 
 1. In this repository, choose the downloadable ZIP file that matches your operating system and device architecture.
 2. Download the ZIP file.
@@ -23,7 +23,7 @@ Using the same editor version is recommended when opening or rebuilding the proj
 
 > Keep the executable and all accompanying files and folders together. The game may not run if files are moved or removed.
 
-## How to play
+## How To Play
 
 The goal is to prevent the ball from passing your paddle. The first player to score **3 points** wins.
 
@@ -37,13 +37,13 @@ Additional controls:
 - `H` - Pause the game and display the instructions
 - `Esc` - Exit the game immediately
 
-## Gameplay preview
+## Gameplay Preview
 
 <!-- Add gameplay screenshots, a GIF, or a video link here. -->
 
-## Open and rebuild the project
+## Open And Rebuild The Project
 
-Use these steps if you need to make changes or if a prebuilt download is not available for your operating system or device architecture.
+Use these steps if you need to make changes or if a prebuilt download is not available for your operating system or device architecture or you are looking to join the development team.
 
 ### 1. Install Unity Hub
 
