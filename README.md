@@ -60,7 +60,7 @@ Use these steps if you need to make changes or if a prebuilt download is not ava
 3. Install the exact editor version listed in [Unity version](#unity-version), if it is available. Otherwise, install the newest stable release.
 4. During installation, add the build-support module for each platform you intend to target.
 
-![Unity Hub editor installation screen](https://github.com/user-attachments/assets/72ec81ae-56fa-4e94-9703-d8e473500bcd)
+<img width="2472" height="1378" alt="image" src="https://github.com/user-attachments/assets/4a11d555-3f99-425d-8b40-8c602acaa1a2" />
 
 ### 3. Open the project
 
