@@ -9,7 +9,7 @@ A two-player Pong game created in Unity for Assignment 1 in CS 3383 at the Unive
 
 ## Unity Version
 
-This game was developed on Windows using Unity **[ADD EXACT UNITY VERSION]**.
+This game was developed on Windows using Unity **Unity 6.5 (6000.5.9f1)**.
 
 The version can be found in `ProjectSettings/ProjectVersion.txt`. Teammates should use the same version to avoid an automatic project upgrade and unnecessary file changes.
 
@@ -17,11 +17,19 @@ The version can be found in `ProjectSettings/ProjectVersion.txt`. Teammates shou
 
 No Unity or Git installation is required to play a prebuilt version.
 
+
+https://github.com/user-attachments/assets/37136f15-077b-4368-84e7-8ac5b992413d
+
+
 1. Open this repository's **Releases** page from the link on the right side of GitHub.
 2. Open the newest release and, under **Assets**, download the ZIP file for your operating system and device architecture.
 3. Right-click the downloaded ZIP file and select **Extract All**. Keep all extracted files together in the same folder.
-4. Open the extracted folder and double-click the game executable. On Windows, this is the `.exe` file.
+4. Open the extracted folder and double-click the game executable called `My project`. On Windows, this is the `.exe` file.
 5. Press **Start** to begin.
+
+
+https://github.com/user-attachments/assets/777b4aa2-2844-4ca2-96dd-c633a3966c76
+
 
 If Windows displays a security warning, confirm that the file came from this repository before choosing **More info > Run anyway**. If no compatible release is available, follow the development instructions below and run the game in Unity.
 
@@ -78,4 +86,6 @@ For a one-time copy that will not receive team updates, select **Code > Download
 
 ## Gameplay Preview
 
-<!-- Add gameplay screenshots, a GIF, or a video link here. -->
+
+https://github.com/user-attachments/assets/1488228c-2b5b-4a9f-b6c3-24edacbadf76
+
