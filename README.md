@@ -44,6 +44,7 @@ Prevent the ball from passing your paddle. The first player to score **3 points*
 
 - `H` - Pause the game and display instructions
 - `Esc` - Exit the game immediately
+<img width="1889" height="1045" alt="image" src="https://github.com/user-attachments/assets/cca0cd98-b708-48fe-904d-94ba06f85995" />
 
 ## Join the Development Team
 
